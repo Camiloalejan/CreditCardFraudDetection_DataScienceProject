@@ -11,7 +11,7 @@ classified as "fraud" (in red). In the following graph we can notice what has be
 After, I took the Amounts of each row, and I decided to compare them through the time. We can clearly see, that the healthy movements, used to be greater than those fraudulents
 as it is shown below:
 
-![_figure 2: Amounts_](https://github.com/Camiloalejan/CreditCardFraudDetection_DataScienceProject/blob/main/images/values.png)
+![_figure 2: Amounts_](https://github.com/Camiloalejan/CreditCardFraudDetection_DataScienceProject/blob/main/images/amounts.png)
 
 Here we have a qualitative data set, due to the "Class" column that indicates whether a completed transaction is a fraud or not. Therefore, the best models to complete 
 the main task are the algorithms that are used to classify. So I chose the K-Nearest-Neighbors (K-Neighbors-Classifier) and Random Forest Machine Learning models 
